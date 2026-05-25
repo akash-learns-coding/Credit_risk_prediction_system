@@ -108,7 +108,8 @@ The app will open at `http://localhost:8501`
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your Streamlit app here)*
+> ![Home Page](mkdir.assets/Home_page.png)
+> ![Prediction Page](mkdir.assets/Prediction_page.png)
 
 ---
 
